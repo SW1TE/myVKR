@@ -62,10 +62,6 @@
 - Docker и Docker Compose
 - Maven 3.8+
 
-### 1. Клонирование репозитория
 
-```bash
-git clone https://github.com/your-username/kafka-fault-tolerant-system.git
-cd kafka-fault-tolerant-system
 
 
